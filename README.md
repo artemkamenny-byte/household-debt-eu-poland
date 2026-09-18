@@ -74,6 +74,6 @@ parameter) on this short time series.
 ## Files
 
 - `Household-Debt-Dashboard.pbix` — Power BI dashboard
-- `forecast_analysis.ipynb` — Python forecasting notebook
-- `project.sql` — SQL data cleaning + analytical queries
-- `raw-data/` — Source CSV files from Eurostat
+- `Household-Debt PYTHON FORECAST.ipynb` — Python forecasting notebook
+- `SQL cleaning and queries.sql` — SQL data cleaning + analytical queries
+- `Household-Debt DATA/` — Source CSV files from Eurostat
