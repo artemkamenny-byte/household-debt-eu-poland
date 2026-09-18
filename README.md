@@ -53,15 +53,19 @@ uncertainty.
 ## Screenshots
 
 **Overview**
+
 ![Overview page](screenshots/overview.png)
 
 **Trend**
+
 ![Trend page](screenshots/trend.png)
 
 **Country Comparison**
+
 ![Country Comparison page](screenshots/comparison.png)
 
 **Forecast**
+
 ![Forecast page](screenshots/forecast.png)
 
 ## Key Insights
