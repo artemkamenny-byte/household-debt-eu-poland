@@ -50,6 +50,20 @@ based on the lowest MSE on a 2-year holdout test. Includes a 95%
 confidence interval, widening over the forecast horizon to reflect growing 
 uncertainty.
 
+## Screenshots
+
+**Overview**
+![Overview page](screenshots/overview.png)
+
+**Trend**
+![Trend page](screenshots/trend.png)
+
+**Country Comparison**
+![Country Comparison page](screenshots/comparison.png)
+
+**Forecast**
+![Forecast page](screenshots/forecast.png)
+
 ## Key Insights
 
 - Poland's debt-to-income ratio fell ~19 percentage points over the past 
